@@ -1,0 +1,1493 @@
+{
+  "name": "不灭航路",
+  "starLevel": 5,
+  "type": 2,
+  "stats": {
+    "0": {
+      "1": [
+        {
+          "name": "攻击",
+          "value": 33.0,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 1712.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "2": [
+        {
+          "name": "攻击",
+          "value": 35.7786,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 1712.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "3": [
+        {
+          "name": "攻击",
+          "value": 38.5605,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 1712.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "4": [
+        {
+          "name": "攻击",
+          "value": 41.3424,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 1712.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "5": [
+        {
+          "name": "攻击",
+          "value": 44.121,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2044.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "6": [
+        {
+          "name": "攻击",
+          "value": 46.9029,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2044.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "7": [
+        {
+          "name": "攻击",
+          "value": 49.6848,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2044.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "8": [
+        {
+          "name": "攻击",
+          "value": 52.4634,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2044.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "9": [
+        {
+          "name": "攻击",
+          "value": 55.2453,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2044.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "10": [
+        {
+          "name": "攻击",
+          "value": 58.0272,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2377.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "11": [
+        {
+          "name": "攻击",
+          "value": 60.8058,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2377.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "12": [
+        {
+          "name": "攻击",
+          "value": 63.5877,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2377.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "13": [
+        {
+          "name": "攻击",
+          "value": 66.3696,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2377.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "14": [
+        {
+          "name": "攻击",
+          "value": 69.1515,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2377.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "15": [
+        {
+          "name": "攻击",
+          "value": 71.9301,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2710.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "16": [
+        {
+          "name": "攻击",
+          "value": 74.712,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2710.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "17": [
+        {
+          "name": "攻击",
+          "value": 77.4939,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2710.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "18": [
+        {
+          "name": "攻击",
+          "value": 80.2725,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2710.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "19": [
+        {
+          "name": "攻击",
+          "value": 83.0544,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 2710.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "20": [
+        {
+          "name": "攻击",
+          "value": 85.8363,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "1": {
+      "20": [
+        {
+          "name": "攻击",
+          "value": 107.8341,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "21": [
+        {
+          "name": "攻击",
+          "value": 110.616,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "22": [
+        {
+          "name": "攻击",
+          "value": 113.3979,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "23": [
+        {
+          "name": "攻击",
+          "value": 116.1765,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "24": [
+        {
+          "name": "攻击",
+          "value": 118.9584,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3043.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "25": [
+        {
+          "name": "攻击",
+          "value": 121.7403,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3376.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "26": [
+        {
+          "name": "攻击",
+          "value": 124.5222,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3376.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "27": [
+        {
+          "name": "攻击",
+          "value": 127.3008,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3376.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "28": [
+        {
+          "name": "攻击",
+          "value": 130.0827,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3376.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "29": [
+        {
+          "name": "攻击",
+          "value": 132.8646,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3376.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "30": [
+        {
+          "name": "攻击",
+          "value": 135.6432,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3709.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "31": [
+        {
+          "name": "攻击",
+          "value": 138.4251,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3709.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "32": [
+        {
+          "name": "攻击",
+          "value": 141.207,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3709.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "33": [
+        {
+          "name": "攻击",
+          "value": 143.9856,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3709.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "34": [
+        {
+          "name": "攻击",
+          "value": 146.7675,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 3709.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "35": [
+        {
+          "name": "攻击",
+          "value": 149.5494,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4042.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "36": [
+        {
+          "name": "攻击",
+          "value": 152.3313,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4042.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "37": [
+        {
+          "name": "攻击",
+          "value": 155.1099,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4042.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "38": [
+        {
+          "name": "攻击",
+          "value": 157.8918,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4042.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "39": [
+        {
+          "name": "攻击",
+          "value": 160.6737,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4042.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "40": [
+        {
+          "name": "攻击",
+          "value": 163.4523,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "2": {
+      "40": [
+        {
+          "name": "攻击",
+          "value": 185.4534,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "41": [
+        {
+          "name": "攻击",
+          "value": 188.2353,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "42": [
+        {
+          "name": "攻击",
+          "value": 191.0139,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "43": [
+        {
+          "name": "攻击",
+          "value": 193.7958,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "44": [
+        {
+          "name": "攻击",
+          "value": 196.5777,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4375.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "45": [
+        {
+          "name": "攻击",
+          "value": 199.3563,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4708.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "46": [
+        {
+          "name": "攻击",
+          "value": 202.1382,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4708.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "47": [
+        {
+          "name": "攻击",
+          "value": 204.9201,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4708.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "48": [
+        {
+          "name": "攻击",
+          "value": 207.702,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4708.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "49": [
+        {
+          "name": "攻击",
+          "value": 210.4806,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 4708.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "50": [
+        {
+          "name": "攻击",
+          "value": 213.2625,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "3": {
+      "50": [
+        {
+          "name": "攻击",
+          "value": 235.2636,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "51": [
+        {
+          "name": "攻击",
+          "value": 238.0422,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "52": [
+        {
+          "name": "攻击",
+          "value": 240.8241,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "53": [
+        {
+          "name": "攻击",
+          "value": 243.606,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "54": [
+        {
+          "name": "攻击",
+          "value": 246.3846,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5040.8128,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "55": [
+        {
+          "name": "攻击",
+          "value": 249.1665,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5373.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "56": [
+        {
+          "name": "攻击",
+          "value": 251.9484,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5373.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "57": [
+        {
+          "name": "攻击",
+          "value": 254.7303,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5373.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "58": [
+        {
+          "name": "攻击",
+          "value": 257.5089,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5373.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "59": [
+        {
+          "name": "攻击",
+          "value": 260.2908,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5373.6256,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "60": [
+        {
+          "name": "攻击",
+          "value": 263.0727,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "4": {
+      "60": [
+        {
+          "name": "攻击",
+          "value": 285.0705,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "61": [
+        {
+          "name": "攻击",
+          "value": 287.8524,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "62": [
+        {
+          "name": "攻击",
+          "value": 290.6343,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "63": [
+        {
+          "name": "攻击",
+          "value": 293.4129,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "64": [
+        {
+          "name": "攻击",
+          "value": 296.1948,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 5706.6096,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "65": [
+        {
+          "name": "攻击",
+          "value": 298.9767,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6039.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "66": [
+        {
+          "name": "攻击",
+          "value": 301.7553,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6039.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "67": [
+        {
+          "name": "攻击",
+          "value": 304.5372,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6039.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "68": [
+        {
+          "name": "攻击",
+          "value": 307.3191,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6039.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "69": [
+        {
+          "name": "攻击",
+          "value": 310.101,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6039.4224,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "70": [
+        {
+          "name": "攻击",
+          "value": 312.8796,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "5": {
+      "70": [
+        {
+          "name": "攻击",
+          "value": 334.8807,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "71": [
+        {
+          "name": "攻击",
+          "value": 337.6626,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "72": [
+        {
+          "name": "攻击",
+          "value": 340.4412,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "73": [
+        {
+          "name": "攻击",
+          "value": 343.2231,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "74": [
+        {
+          "name": "攻击",
+          "value": 346.005,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6372.4064,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "75": [
+        {
+          "name": "攻击",
+          "value": 348.7836,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6705.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "76": [
+        {
+          "name": "攻击",
+          "value": 351.5655,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6705.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "77": [
+        {
+          "name": "攻击",
+          "value": 354.3474,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6705.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "78": [
+        {
+          "name": "攻击",
+          "value": 357.126,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6705.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "79": [
+        {
+          "name": "攻击",
+          "value": 359.9079,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 6705.2192,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "80": [
+        {
+          "name": "攻击",
+          "value": 362.6898,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    },
+    "6": {
+      "80": [
+        {
+          "name": "攻击",
+          "value": 384.6909,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "81": [
+        {
+          "name": "攻击",
+          "value": 387.4695,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "82": [
+        {
+          "name": "攻击",
+          "value": 390.2514,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "83": [
+        {
+          "name": "攻击",
+          "value": 393.0333,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "84": [
+        {
+          "name": "攻击",
+          "value": 395.8119,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7038.2032,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "85": [
+        {
+          "name": "攻击",
+          "value": 398.5938,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7371.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "86": [
+        {
+          "name": "攻击",
+          "value": 401.3757,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7371.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "87": [
+        {
+          "name": "攻击",
+          "value": 404.1543,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7371.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "88": [
+        {
+          "name": "攻击",
+          "value": 406.9362,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7371.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "89": [
+        {
+          "name": "攻击",
+          "value": 409.7181,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7371.016,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ],
+      "90": [
+        {
+          "name": "攻击",
+          "value": 412.5,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "共鸣效率",
+          "value": 7704.0,
+          "isRatio": false,
+          "isPercent": true
+        }
+      ]
+    }
+  },
+  "effect": "暴击提升{0}。施放共鸣解放后，普攻伤害加成提高{1}，持续{2}秒。造成普攻伤害时，普攻伤害加成提升{3}，持续{4}秒。",
+  "effectName": "欢笑海",
+  "param": [
+    [
+      "8%",
+      "10%",
+      "12%",
+      "14%",
+      "16%"
+    ],
+    [
+      "24%",
+      "30%",
+      "36%",
+      "42%",
+      "48%"
+    ],
+    [
+      "10",
+      "10",
+      "10",
+      "10",
+      "10"
+    ],
+    [
+      "24%",
+      "30%",
+      "36%",
+      "42%",
+      "48%"
+    ],
+    [
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ]
+  ],
+  "desc": "狂风呼啸，浪涛汹涌。大海将一切吞没其中，唯有船灯大笑！\n前进吧，前进吧！一直航行到世界尽头！",
+  "ascensions": {
+    "0": [
+      {
+        "key": 41100021,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ],
+    "1": [
+      {
+        "key": 43020011,
+        "value": 6
+      },
+      {
+        "key": 41100022,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "2": [
+      {
+        "key": 43020012,
+        "value": 8
+      },
+      {
+        "key": 41100023,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 40000
+      }
+    ],
+    "3": [
+      {
+        "key": 43020013,
+        "value": 6
+      },
+      {
+        "key": 41100023,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 60000
+      }
+    ],
+    "4": [
+      {
+        "key": 43020014,
+        "value": 8
+      },
+      {
+        "key": 41100024,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 80000
+      }
+    ],
+    "5": [
+      {
+        "key": 43020014,
+        "value": 12
+      },
+      {
+        "key": 41100024,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 120000
+      }
+    ],
+    "6": [
+      {
+        "key": 2,
+        "value": 0
+      }
+    ]
+  }
+}

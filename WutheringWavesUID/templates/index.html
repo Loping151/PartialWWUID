@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WutheringWavesUID 登录</title>
+  <link rel="icon" href="https://web-static.kurobbs.com/resource/prod/icon.ico" type="image/x-icon">
+  <script src="https://static.geetest.com/v4/gt4.js"></script>
+  <script src="https://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: 'Microsoft YaHei', sans-serif;
+    }
+
+    body {
+      background-image: url('https://prod-alicdn-community.kurobbs.com/forum/465dcb694966492aba4d4982c47f0e8520240914.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: inherit;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      filter: blur(8px);
+      z-index: -1;
+    }
+
+    .login-container {
+      background-color: rgba(255, 255, 255, 0.2);
+      padding: 2rem;
+      border-radius: 16px;
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      width: 320px;
+      transition: all 0.3s ease;
+    }
+
+    .login-container:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.45);
+    }
+
+    .login-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2rem;
+      justify-content: space-between;
+    }
+
+    .banner {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 3px solid rgba(255, 255, 255, 0.5);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin-right: 0.5rem;
+    }
+
+    .banner img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .banner-text {
+      flex: 1;
+      padding-right: 1rem;
+      margin-left: 0.5rem;
+    }
+
+    .welcome-text {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.25rem;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    }
+
+    .logo-text {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.25rem;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    }
+
+    .kurobbs-text {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #e6e6e6;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    }
+
+    .input-group {
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: #fff;
+      font-weight: 500;
+    }
+
+    input[type="tel"], input[type="text"] {
+      width: 100%;
+      padding: 0.75rem;
+      border: none;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      background-color: rgba(255, 255, 255, 0.9);
+      transition: all 0.3s ease;
+    }
+
+    input[type="tel"]:focus, input[type="text"]:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.6);
+    }
+
+    .verification-group {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .verification-group input {
+      flex-grow: 1;
+    }
+
+    button {
+      width: 100%;
+      padding: 0.75rem;
+      background-color: #4a90e2;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    button:hover {
+      background-color: #357abd;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    button:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+      transform: none;
+      box-shadow: none;
+    }
+
+    #getCodeBtn {
+      width: auto;
+      white-space: nowrap;
+      padding: 0.75rem 1rem;
+      display: inline-block;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 300px;
+      border-radius: 10px;
+      text-align: center;
+      transform: scale(0.7);
+      transition: transform 0.3s ease;
+    }
+
+    .modal.show {
+      display: block;
+      opacity: 1;
+    }
+
+    .modal.show .modal-content {
+      transform: scale(1);
+    }
+
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .close:hover,
+    .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .user-id-display {
+      text-align: right;
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 0.8em;
+      margin-bottom: 10px;
+      transition: opacity 0.3s ease;
+    }
+
+    .user-id-display:hover {
+      opacity: 1;
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 300px;
+      border-radius: 10px;
+      text-align: center;
+      transform: scale(0.7);
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+
+    .modal.show .modal-content {
+      transform: scale(1);
+      opacity: 1;
+    }
+
+    .countdown {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 10px;
+    }
+
+    .redirect-button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #4a90e2;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .redirect-button:hover {
+      background-color: #357abd;
+    }
+  </style>
+</head>
+<body>
+<div class="login-container">
+  <div class="login-header">
+    <div class="banner-text">
+      <div class="welcome-text">欢迎登录</div>
+      <div class="logo-text">WutheringWavesUID</div>
+      <div class="kurobbs-text">库街区</div>
+    </div>
+    <div class="banner">
+      <img src="https://web-static.kurobbs.com/adminConfig/27/role_icon/1727419309663.png" alt="Banner">
+    </div>
+  </div>
+  <form id="loginForm">
+    <div class="input-group">
+      <label for="phone">手机号</label>
+      <input type="tel" id="phone" name="phone" required pattern="[0-9]{11}" placeholder="请输入11位手机号">
+    </div>
+    <div class="input-group">
+      <label for="verificationCode">验证码</label>
+      <div class="verification-group">
+        <input type="text" id="verificationCode" name="verificationCode" required placeholder="请输入验证码">
+        <button type="button" id="getCodeBtn" disabled>获取验证码</button>
+      </div>
+    </div>
+    <div id="userIdDisplay" class="user-id-display">当前识别码: {{ userId }}</div>
+    <button type="submit" id="loginBtn">登录</button>
+  </form>
+</div>
+
+<div id="successModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h2>登录成功</h2>
+    <p>欢迎回来！</p>
+    <p class="countdown">5秒后自动跳转到首页</p>
+    <button class="redirect-button">立即跳转</button>
+  </div>
+</div>
+
+<script>
+  const phoneInput = document.getElementById('phone');
+  const verificationCodeInput = document.getElementById('verificationCode');
+  const getCodeBtn = document.getElementById('getCodeBtn');
+  const loginBtn = document.getElementById('loginBtn');
+  const loginForm = document.getElementById('loginForm');
+  const modal = document.getElementById('successModal');
+  const closeBtn = modal.querySelector('.close');
+
+  phoneInput.addEventListener('input', function () {
+    getCodeBtn.disabled = this.value.length !== 11;
+    loginBtn.disabled = this.value.length !== 11 || verificationCodeInput.value === "";
+  });
+
+  verificationCodeInput.addEventListener('input', function () {
+    loginBtn.disabled = this.value === "" || phoneInput.value.length !== 11;
+  });
+
+  const headers = {
+    "devcode": generateRandomString(),
+    "source": "h5",
+  };
+
+  const captchaId = "ec4aa4174277d822d73f2442a165a2cd";
+  const product = "bind";
+
+  initGeetest4({
+    captchaId: captchaId,
+    product: product,
+  }, function (captcha) {
+    captcha.onReady(function () {
+    }).onSuccess(function () {
+      var result = captcha.getValidate();
+      if (!result) {
+        return alert('请完成验证');
+      }
+      result.captcha_id = captchaId
+      $.ajax({
+        url: 'https://api.kurobbs.com/user/getSmsCodeForH5',
+        type: 'POST', // 通常发送数据使用 POST
+        data: {"mobile": phoneInput.value, "geeTestData": JSON.stringify(result)},
+        headers: headers,
+        success: res => alert(res.success ? '验证码已发送' : '验证码发送失败 : ' + res.msg),
+        error: () => alert('请求出错，请检查网络连接')
+      });
+    }).onError(function () {
+      alert('请求出错，请检查网络连接');
+    })
+
+    getCodeBtn.onclick = function () {
+      this.disabled = true;
+      let countdown = 60;
+      const originalText = this.textContent;
+
+      captcha.showBox();
+
+      const timer = setInterval(() => {
+        this.textContent = `${countdown}秒后重试`;
+        countdown--;
+        if (countdown < 0) {
+          clearInterval(timer);
+          this.textContent = originalText;
+          this.disabled = false;
+          captcha.hideBox();
+        }
+      }, 1000);
+    }
+  });
+
+  loginForm.addEventListener('submit', function (e) {
+    const data = {
+      mobile: phoneInput.value,
+      code: verificationCodeInput.value,
+      auth: "{{ auth }}"
+    }
+    e.preventDefault();
+    $.ajax({
+      url: '{{ server_url }}/waves/login',
+      type: 'POST',
+      data: JSON.stringify(data),
+      contentType: 'application/json',
+      success: res => res.success ? showSuccessModal() : alert('登录失败' + (res.msg ? res.msg : '，请重试')),
+      error: () => alert('登录失败，请重试')
+    });
+  });
+
+
+  function showSuccessModal() {
+    const homeHref = 'https://github.com/Loping151/WutheringWavesUID'
+    const modal = document.getElementById('successModal');
+    const countdownElement = modal.querySelector('.countdown');
+    const redirectButton = modal.querySelector('.redirect-button');
+    let countdown = 5;
+
+    modal.classList.add('show');
+    setTimeout(() => {
+      modal.querySelector('.modal-content').style.transform = 'scale(1)';
+      modal.querySelector('.modal-content').style.opacity = '1';
+    }, 10);
+
+    function updateCountdown() {
+      countdownElement.textContent = `${countdown}秒后自动跳转到首页`;
+      if (countdown <= 0) {
+        clearInterval(timer);
+        window.location.href = homeHref;
+      }
+      countdown--;
+    }
+
+    const timer = setInterval(updateCountdown, 1000);
+
+    redirectButton.addEventListener('click', () => {
+      clearInterval(timer);
+      window.location.href = homeHref;
+    });
+
+    modal.querySelector('.close').addEventListener('click', () => {
+      clearInterval(timer);
+      window.location.href = homeHref;
+    });
+  }
+
+  closeBtn.addEventListener('click', closeModal);
+
+  function closeModal() {
+    modal.querySelector('.modal-content').style.transform = 'scale(0.7)';
+    setTimeout(() => {
+      modal.classList.remove('show');
+    }, 300);
+  }
+
+  window.addEventListener('click', function (event) {
+    if (event.target === modal) {
+      closeModal();
+    }
+  });
+
+  function loadBackgroundImage() {
+    const img = new Image();
+    img.onload = function () {
+      document.body.style.backgroundImage = `url(${img.src})`;
+      document.body.classList.add('bg-loaded');
+    };
+    img.src = 'https://prod-alicdn-community.kurobbs.com/forum/465dcb694966492aba4d4982c47f0e8520240914.jpg';
+  }
+
+  window.addEventListener('load', loadBackgroundImage);
+
+  function generateRandomString() {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    return Array(32)
+      .fill(0)
+      .map(() => chars.charAt(Math.floor(Math.random() * chars.length)))
+      .join('');
+  }
+</script>
+</body>
+</html>

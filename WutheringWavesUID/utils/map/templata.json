@@ -1,0 +1,262 @@
+{
+    "chainList": [
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 1,
+            "unlocked": true
+        },
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 2,
+            "unlocked": true
+        },
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 3,
+            "unlocked": true
+        },
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 4,
+            "unlocked": true
+        },
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 5,
+            "unlocked": true
+        },
+        {
+            "description": "",
+            "iconUrl": "",
+            "name": "",
+            "order": 6,
+            "unlocked": true
+        }
+    ],
+    "level": 90,
+    "phantomData": {
+        "cost": 12,
+        "equipPhantomList": [
+            {
+                "cost": 0,
+                "fetterDetail": {
+                    "firstDescription": "",
+                    "groupId": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "num": 0,
+                    "secondDescription": ""
+                },
+                "level": 25,
+                "mainProps": [],
+                "subProps": [],
+                "phantomProp": {
+                    "cost": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "phantomId": 0,
+                    "phantomPropId": 0,
+                    "quality": 5,
+                    "skillDescription": ""
+                },
+                "quality": 5
+            },
+            {
+                "cost": 0,
+                "fetterDetail": {
+                    "firstDescription": "",
+                    "groupId": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "num": 0,
+                    "secondDescription": ""
+                },
+                "level": 25,
+                "mainProps": [],
+                "subProps": [],
+                "phantomProp": {
+                    "cost": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "phantomId": 0,
+                    "phantomPropId": 0,
+                    "quality": 5,
+                    "skillDescription": ""
+                },
+                "quality": 5
+            },
+            {
+                "cost": 0,
+                "fetterDetail": {
+                    "firstDescription": "",
+                    "groupId": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "num": 0,
+                    "secondDescription": ""
+                },
+                "level": 25,
+                "mainProps": [],
+                "subProps": [],
+                "phantomProp": {
+                    "cost": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "phantomId": 0,
+                    "phantomPropId": 0,
+                    "quality": 5,
+                    "skillDescription": ""
+                },
+                "quality": 5
+            },
+            {
+                "cost": 0,
+                "fetterDetail": {
+                    "firstDescription": "",
+                    "groupId": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "num": 0,
+                    "secondDescription": ""
+                },
+                "level": 25,
+                "mainProps": [],
+                "subProps": [],
+                "phantomProp": {
+                    "cost": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "phantomId": 0,
+                    "phantomPropId": 0,
+                    "quality": 5,
+                    "skillDescription": ""
+                },
+                "quality": 5
+            },
+            {
+                "cost": 0,
+                "fetterDetail": {
+                    "firstDescription": "",
+                    "groupId": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "num": 0,
+                    "secondDescription": ""
+                },
+                "level": 25,
+                "mainProps": [],
+                "subProps": [],
+                "phantomProp": {
+                    "cost": 0,
+                    "iconUrl": "",
+                    "name": "",
+                    "phantomId": 0,
+                    "phantomPropId": 0,
+                    "quality": 5,
+                    "skillDescription": ""
+                },
+                "quality": 5
+            }
+        ]
+    },
+    "role": {
+        "acronym": "",
+        "attributeId": 0,
+        "attributeName": "",
+        "breach": 6,
+        "isMainRole": false,
+        "level": 90,
+        "roleIconUrl": "",
+        "roleId": 0,
+        "roleName": "",
+        "rolePicUrl": "",
+        "starLevel": 0,
+        "weaponTypeId": 0,
+        "weaponTypeName": ""
+    },
+    "skillList": [
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "常态攻击"
+            }
+        },
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "共鸣技能"
+            }
+        },
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "共鸣解放"
+            }
+        },
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "变奏技能"
+            }
+        },
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "共鸣回路"
+            }
+        },
+        {
+            "level": 10,
+            "skill": {
+                "description": "",
+                "iconUrl": "",
+                "id": 0,
+                "name": "",
+                "type": "延奏技能"
+            }
+        }
+    ],
+    "weaponData": {
+        "breach": 6,
+        "level": 90,
+        "resonLevel": 5,
+        "weapon": {
+            "weaponEffectName": "",
+            "weaponIcon": "",
+            "weaponId": 0,
+            "weaponName": "",
+            "weaponStarLevel": 0,
+            "weaponType": 0
+        }
+    }
+}

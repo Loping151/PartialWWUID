@@ -1,0 +1,45 @@
+[tool.isort]
+profile = "black"
+line_length = 79
+length_sort = true
+skip_gitignore = true
+force_sort_within_sections = true
+extra_standard_library = ["typing_extensions"]
+
+[tool.poetry]
+name = "WutheringWavesUID"
+version = "1.0.0"
+description = "支持OneBot(QQ)、OneBotV12、QQ频道、微信、KOOK（开黑啦）、Telegram（电报）、FeiShu（飞书）、DoDo、Villa（米游社大别野）、Discord的全功能HoshinoBot/NoneBot2/Koishi/yunzai/ZeroBot鸣潮机器人插件"
+authors = ["tyql688 <632558678@qq.com>", "Loping151 <wkl@loping151.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://github.com/Loping151/WutheringWavesUID"
+repository = "https://github.com/Loping151/WutheringWavesUID"
+
+[tool.poetry.dependencies]
+python = ">=3.10, <4.0"
+
+
+
+[tool.pdm.build]
+includes = []
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+authors = [
+  { name = "tyql688", email = "632558678@qq.com" },
+]
+license = { text = "GPL-3.0-or-later" }
+requires-python = ">=3.10, <4.0"
+dependencies = [
+]
+name = "WutheringWavesUID"
+version = "1.0.0"
+description = "支持OneBot(QQ)、OneBotV12、QQ频道、微信、KOOK（开黑啦）、Telegram（电报）、FeiShu（飞书）、DoDo、Villa（米游社大别野）、Discord的全功能HoshinoBot/NoneBot2/Koishi/yunzai/ZeroBot鸣潮机器人插件"
+readme = "README.md"
+
+[project.urls]
+homepage = "https://github.com/Loping151/WutheringWavesUID"
+repository = "https://github.com/Loping151/WutheringWavesUID"

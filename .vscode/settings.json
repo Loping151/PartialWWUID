@@ -1,0 +1,21 @@
+{
+  "python.languageServer": "None",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/../../../../"
+  ],
+  "isort.args": [
+    "--profile",
+    "black"
+  ],
+  "basedpyright.analysis.extraPaths": [
+    "${workspaceFolder}/../../../"
+  ],
+}

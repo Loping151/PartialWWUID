@@ -1,0 +1,587 @@
+{
+  "绑定账号": {
+    "desc": "在执行查询之前请绑定账号",
+    "data": [
+      {
+        "name": "绑定特征码",
+        "desc": "绑定特征码",
+        "eg": "绑定123456",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "切换特征码",
+        "desc": "切换绑定的账户",
+        "eg": "切换123456",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "删除特征码",
+        "desc": "删除特征码",
+        "eg": "删除123456",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查看特征码列表",
+        "desc": "查看特征码列表",
+        "eg": "查看",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "删除全部特征码",
+        "desc": "查看绑定的UID列表",
+        "eg": "删除全部特征码",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "库街区登录": {
+    "desc": "在执行查询之前请库街区登录",
+    "data": [
+      {
+        "name": "推荐->登录页登录",
+        "desc": "登录页登录",
+        "eg": "登录",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "添加token",
+        "desc": "绑定自己的库街区添加token",
+        "eg": "添加token tk,did",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "删除token",
+        "desc": "删除当前的库街区CK",
+        "eg": "删除token 123456",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "获取绑定的token",
+        "desc": "获取绑定的token",
+        "eg": "获取token",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "信息查询": {
+    "desc": "在执行查询之前请绑定账号",
+    "data": [
+      {
+        "name": "鸣潮面板更新",
+        "desc": "鸣潮面板更新",
+        "eg": "刷新面板",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "练度统计",
+        "desc": "查询练度统计一览",
+        "eg": "练度统计",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "基本信息卡片",
+        "desc": "查询基本信息",
+        "eg": "卡片",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查询声骸列表",
+        "desc": "查询声骸列表",
+        "eg": "声骸列表",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查询角色面板",
+        "desc": "查询角色面板",
+        "eg": "椿面板",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查询角色伤害",
+        "desc": "查询角色伤害",
+        "eg": "椿伤害3",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查询角色权重",
+        "desc": "查询角色权重",
+        "eg": "椿权重",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "窥视(:",
+        "desc": "窥视面板",
+        "eg": "uid椿面板",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "面板PK",
+        "desc": "面板PK",
+        "eg": "(uid)椿面板pk(@群友)",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "体力",
+        "desc": "获取自己的每日状态",
+        "eg": "mr/每日",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "查询探索度",
+        "desc": "查询探索度",
+        "eg": "探索度",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "日历",
+        "desc": "日历",
+        "eg": "日历",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "面板替换帮助",
+        "desc": "面板替换帮助",
+        "eg": "替换帮助",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "兑换码",
+        "desc": "兑换码",
+        "eg": "兑换码",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "角色养成",
+        "desc": "角色养成",
+        "eg": "菲比养成",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "星声统计",
+        "desc": "星声",
+        "eg": "星声(5月/2.3版本)",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "打牌",
+        "desc": "打牌",
+        "eg": "poker",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "卡池倒计时",
+        "desc": "卡池倒计时",
+        "eg": "未复刻角色/武器(5/4)",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "角色持有率",
+        "desc": "角色持有率",
+        "eg": "(群)角色持有率(up/all)",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "深塔查询": {
+    "desc": "深塔数据查询",
+    "data": [
+      {
+        "name": "深塔",
+        "desc": "查询深塔",
+        "eg": "st/深塔",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "全息战略",
+        "desc": "查询全息战略",
+        "eg": "qx/全息",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "深塔出场率",
+        "desc": "深塔出场率",
+        "eg": "深塔出场率",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "冥歌海墟",
+        "desc": "查询冥歌海墟",
+        "eg": "mh/冥歌海墟",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "冥歌海墟出场率",
+        "desc": "冥歌海墟出场率",
+        "eg": "冥海出场率",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "排行查询": {
+    "desc": "排行查询",
+    "data": [
+      {
+        "name": "群伤害排行",
+        "desc": "群伤害排行",
+        "eg": "长离排行",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "群评分排行",
+        "desc": "群评分排行",
+        "eg": "长离评分排行",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "全服伤害排行",
+        "desc": "全服伤害排行",
+        "eg": "长离总排行1",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "全服评分排行",
+        "desc": "全服评分排行",
+        "eg": "长离评分总排行1",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "练度总排行",
+        "desc": "练度总排行",
+        "eg": "练度总排行",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "抽卡记录": {
+    "desc": "抽卡记录",
+    "data": [
+      {
+        "name": "抽卡帮助",
+        "desc": "抽卡帮助",
+        "eg": "抽卡帮助",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "导入抽卡链接",
+        "desc": "导入抽卡链接",
+        "eg": "导入抽卡链接 https://...record_id=5e4d436ea1",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "抽卡记录",
+        "desc": "查询自己的抽卡记录",
+        "eg": "抽卡记录",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "导出抽卡记录",
+        "desc": "导出抽卡记录",
+        "eg": "导出抽卡记录",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "面板图帮助": {
+    "desc": "面板图帮助",
+    "data": [
+      {
+        "name": "上传角色面板图",
+        "desc": "上传角色面板图",
+        "eg": "上传椿面板图",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "面板图列表",
+        "desc": "面板图列表",
+        "eg": "椿面板图列表",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "删除面板图",
+        "desc": "删除面板图",
+        "eg": "删除椿面板图123",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "删除全部面板图",
+        "desc": "删除全部面板图",
+        "eg": "删除全部椿面板图",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "WIKI": {
+    "desc": "获取游戏信息&攻略",
+    "data": [
+      {
+        "name": "角色攻略",
+        "desc": "角色攻略",
+        "eg": "椿攻略",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "角色共鸣链",
+        "desc": "角色共鸣链",
+        "eg": "安可共鸣链",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "角色技能",
+        "desc": "角色技能",
+        "eg": "维里奈技能",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "武器介绍",
+        "desc": "武器介绍",
+        "eg": "椿专武介绍",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "声骸介绍",
+        "desc": "声骸介绍",
+        "eg": "角介绍",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "武器列表",
+        "desc": "武器列表",
+        "eg": "(武器类型)武器(列表)",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "合鸣/套装效果",
+        "desc": "合鸣/套装效果",
+        "eg": "套装列表",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "游戏公告列表",
+        "desc": "游戏公告列表",
+        "eg": "公告",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "游戏公告明细",
+        "desc": "游戏公告明细",
+        "eg": "公告#1456",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "个人服务": {
+    "desc": "该配置项仅针对个人使用",
+    "data": [
+      {
+        "name": "设置体力背景",
+        "desc": "设置体力背景",
+        "eg": "设置体力背景长离",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "群管理员功能": {
+    "pm": 3,
+    "desc": "群管理员功能",
+    "data": [
+      {
+        "name": "订阅鸣潮公告",
+        "desc": "订阅鸣潮公告",
+        "eg": "订阅公告",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "取消订阅鸣潮公告",
+        "desc": "取消订阅鸣潮公告",
+        "eg": "取消订阅公告",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "排行条件-无限制",
+        "desc": "设置群排行为无限制",
+        "eg": "设置群排行1",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "排行条件-登录",
+        "desc": "设置群排行为登录",
+        "eg": "设置群排行2",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      }
+    ]
+  },
+  "bot主人功能": {
+    "pm": 1,
+    "desc": "bot主人功能",
+    "data": [
+      {
+        "name": "git更新记录",
+        "desc": "更新记录",
+        "eg": "更新记录",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "下载全部资源",
+        "desc": "下载全部资源",
+        "eg": "下载全部资源",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "删除无效token",
+        "desc": "删除无效token",
+        "eg": "删除无效token",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "压缩面板图",
+        "desc": "压缩面板图",
+        "eg": "压缩面板图",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "联系主人",
+        "desc": "联系主人",
+        "eg": "联系主人",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      },
+      {
+        "name": "添加/删除角色别名",
+        "desc": "添加/删除角色别名",
+        "eg": "添加油壶别名杂鱼",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": true
+      }
+    ]
+  }
+}

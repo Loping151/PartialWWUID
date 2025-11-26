@@ -1,0 +1,1465 @@
+{
+  "name": "大海的馈赠",
+  "starLevel": 4,
+  "type": 5,
+  "stats": {
+    "0": {
+      "1": [
+        {
+          "name": "攻击",
+          "value": 37.0,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.04050000011920929,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "2": [
+        {
+          "name": "攻击",
+          "value": 40.1154,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.04050000011920929,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "3": [
+        {
+          "name": "攻击",
+          "value": 43.2345,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.04050000011920929,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "4": [
+        {
+          "name": "攻击",
+          "value": 46.3536,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.04050000011920929,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "5": [
+        {
+          "name": "攻击",
+          "value": 49.469,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.048373200142383575,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "6": [
+        {
+          "name": "攻击",
+          "value": 52.5881,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.048373200142383575,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "7": [
+        {
+          "name": "攻击",
+          "value": 55.7072,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.048373200142383575,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "8": [
+        {
+          "name": "攻击",
+          "value": 58.8226,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.048373200142383575,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "9": [
+        {
+          "name": "攻击",
+          "value": 61.9417,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.048373200142383575,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "10": [
+        {
+          "name": "攻击",
+          "value": 65.0608,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.05624640016555786,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "11": [
+        {
+          "name": "攻击",
+          "value": 68.1762,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.05624640016555786,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "12": [
+        {
+          "name": "攻击",
+          "value": 71.2953,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.05624640016555786,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "13": [
+        {
+          "name": "攻击",
+          "value": 74.4144,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.05624640016555786,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "14": [
+        {
+          "name": "攻击",
+          "value": 77.5335,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.05624640016555786,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "15": [
+        {
+          "name": "攻击",
+          "value": 80.6489,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.06412365018874407,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "16": [
+        {
+          "name": "攻击",
+          "value": 83.768,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.06412365018874407,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "17": [
+        {
+          "name": "攻击",
+          "value": 86.8871,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.06412365018874407,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "18": [
+        {
+          "name": "攻击",
+          "value": 90.0025,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.06412365018874407,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "19": [
+        {
+          "name": "攻击",
+          "value": 93.1216,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.06412365018874407,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "20": [
+        {
+          "name": "攻击",
+          "value": 96.2407,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "1": {
+      "20": [
+        {
+          "name": "攻击",
+          "value": 120.9049,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "21": [
+        {
+          "name": "攻击",
+          "value": 124.024,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "22": [
+        {
+          "name": "攻击",
+          "value": 127.1431,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "23": [
+        {
+          "name": "攻击",
+          "value": 130.2585,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "24": [
+        {
+          "name": "攻击",
+          "value": 133.3776,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07199685021191836,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "25": [
+        {
+          "name": "攻击",
+          "value": 136.4967,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07987410023510456,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "26": [
+        {
+          "name": "攻击",
+          "value": 139.6158,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07987410023510456,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "27": [
+        {
+          "name": "攻击",
+          "value": 142.7312,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07987410023510456,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "28": [
+        {
+          "name": "攻击",
+          "value": 145.8503,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07987410023510456,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "29": [
+        {
+          "name": "攻击",
+          "value": 148.9694,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.07987410023510456,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "30": [
+        {
+          "name": "攻击",
+          "value": 152.0848,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.08774730025827884,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "31": [
+        {
+          "name": "攻击",
+          "value": 155.2039,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.08774730025827884,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "32": [
+        {
+          "name": "攻击",
+          "value": 158.323,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.08774730025827884,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "33": [
+        {
+          "name": "攻击",
+          "value": 161.4384,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.08774730025827884,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "34": [
+        {
+          "name": "攻击",
+          "value": 164.5575,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.08774730025827884,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "35": [
+        {
+          "name": "攻击",
+          "value": 167.6766,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.09562455028146505,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "36": [
+        {
+          "name": "攻击",
+          "value": 170.7957,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.09562455028146505,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "37": [
+        {
+          "name": "攻击",
+          "value": 173.9111,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.09562455028146505,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "38": [
+        {
+          "name": "攻击",
+          "value": 177.0302,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.09562455028146505,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "39": [
+        {
+          "name": "攻击",
+          "value": 180.1493,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.09562455028146505,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "40": [
+        {
+          "name": "攻击",
+          "value": 183.2647,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "2": {
+      "40": [
+        {
+          "name": "攻击",
+          "value": 207.9326,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "41": [
+        {
+          "name": "攻击",
+          "value": 211.0517,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "42": [
+        {
+          "name": "攻击",
+          "value": 214.1671,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "43": [
+        {
+          "name": "攻击",
+          "value": 217.2862,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "44": [
+        {
+          "name": "攻击",
+          "value": 220.4053,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.10349775030463934,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "45": [
+        {
+          "name": "攻击",
+          "value": 223.5207,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11137500032782555,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "46": [
+        {
+          "name": "攻击",
+          "value": 226.6398,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11137500032782555,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "47": [
+        {
+          "name": "攻击",
+          "value": 229.7589,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11137500032782555,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "48": [
+        {
+          "name": "攻击",
+          "value": 232.878,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11137500032782555,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "49": [
+        {
+          "name": "攻击",
+          "value": 235.9934,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11137500032782555,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "50": [
+        {
+          "name": "攻击",
+          "value": 239.1125,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "3": {
+      "50": [
+        {
+          "name": "攻击",
+          "value": 263.7804,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "51": [
+        {
+          "name": "攻击",
+          "value": 266.8958,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "52": [
+        {
+          "name": "攻击",
+          "value": 270.0149,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "53": [
+        {
+          "name": "攻击",
+          "value": 273.134,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "54": [
+        {
+          "name": "攻击",
+          "value": 276.2494,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.11924820035099984,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "55": [
+        {
+          "name": "攻击",
+          "value": 279.3685,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.12712140037417413,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "56": [
+        {
+          "name": "攻击",
+          "value": 282.4876,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.12712140037417413,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "57": [
+        {
+          "name": "攻击",
+          "value": 285.6067,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.12712140037417413,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "58": [
+        {
+          "name": "攻击",
+          "value": 288.7221,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.12712140037417413,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "59": [
+        {
+          "name": "攻击",
+          "value": 291.8412,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.12712140037417413,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "60": [
+        {
+          "name": "攻击",
+          "value": 294.9603,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "4": {
+      "60": [
+        {
+          "name": "攻击",
+          "value": 319.6245,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "61": [
+        {
+          "name": "攻击",
+          "value": 322.7436,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "62": [
+        {
+          "name": "攻击",
+          "value": 325.8627,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "63": [
+        {
+          "name": "攻击",
+          "value": 328.9781,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "64": [
+        {
+          "name": "攻击",
+          "value": 332.0972,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.13499865039736034,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "65": [
+        {
+          "name": "攻击",
+          "value": 335.2163,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1428718504205346,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "66": [
+        {
+          "name": "攻击",
+          "value": 338.3317,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1428718504205346,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "67": [
+        {
+          "name": "攻击",
+          "value": 341.4508,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1428718504205346,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "68": [
+        {
+          "name": "攻击",
+          "value": 344.5699,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1428718504205346,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "69": [
+        {
+          "name": "攻击",
+          "value": 347.689,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1428718504205346,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "70": [
+        {
+          "name": "攻击",
+          "value": 350.8044,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "5": {
+      "70": [
+        {
+          "name": "攻击",
+          "value": 375.4723,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "71": [
+        {
+          "name": "攻击",
+          "value": 378.5914,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "72": [
+        {
+          "name": "攻击",
+          "value": 381.7068,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "73": [
+        {
+          "name": "攻击",
+          "value": 384.8259,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "74": [
+        {
+          "name": "攻击",
+          "value": 387.945,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1507491004437208,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "75": [
+        {
+          "name": "攻击",
+          "value": 391.0604,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1586223004668951,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "76": [
+        {
+          "name": "攻击",
+          "value": 394.1795,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1586223004668951,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "77": [
+        {
+          "name": "攻击",
+          "value": 397.2986,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1586223004668951,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "78": [
+        {
+          "name": "攻击",
+          "value": 400.414,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1586223004668951,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "79": [
+        {
+          "name": "攻击",
+          "value": 403.5331,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1586223004668951,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "80": [
+        {
+          "name": "攻击",
+          "value": 406.6522,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    },
+    "6": {
+      "80": [
+        {
+          "name": "攻击",
+          "value": 431.3201,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "81": [
+        {
+          "name": "攻击",
+          "value": 434.4355,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "82": [
+        {
+          "name": "攻击",
+          "value": 437.5546,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "83": [
+        {
+          "name": "攻击",
+          "value": 440.6737,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "84": [
+        {
+          "name": "攻击",
+          "value": 443.7891,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1664995504900813,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "85": [
+        {
+          "name": "攻击",
+          "value": 446.9082,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1743727505132556,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "86": [
+        {
+          "name": "攻击",
+          "value": 450.0273,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1743727505132556,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "87": [
+        {
+          "name": "攻击",
+          "value": 453.1427,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1743727505132556,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "88": [
+        {
+          "name": "攻击",
+          "value": 456.2618,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1743727505132556,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "89": [
+        {
+          "name": "攻击",
+          "value": 459.3809,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1743727505132556,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ],
+      "90": [
+        {
+          "name": "攻击",
+          "value": 462.5,
+          "isRatio": false,
+          "isPercent": false
+        },
+        {
+          "name": "攻击",
+          "value": 0.1822500005364418,
+          "isRatio": true,
+          "isPercent": false
+        }
+      ]
+    }
+  },
+  "effect": "对带有【光噪效应】的敌人造成伤害时获得效果：自身衍射伤害提升{0}，每1秒可获得1层，持续6秒，可叠加4层。",
+  "effectName": "渔获",
+  "param": [
+    [
+      "6%",
+      "7%",
+      "8%",
+      "9%",
+      "10%"
+    ]
+  ],
+  "desc": "大海是渔民的麦田，收获和希望等同。",
+  "ascensions": {
+    "0": [
+      {
+        "key": 41100031,
+        "value": 5
+      },
+      {
+        "key": 2,
+        "value": 8000
+      }
+    ],
+    "1": [
+      {
+        "key": 43020031,
+        "value": 5
+      },
+      {
+        "key": 41100032,
+        "value": 5
+      },
+      {
+        "key": 2,
+        "value": 16000
+      }
+    ],
+    "2": [
+      {
+        "key": 43020032,
+        "value": 7
+      },
+      {
+        "key": 41100033,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 32000
+      }
+    ],
+    "3": [
+      {
+        "key": 43020033,
+        "value": 5
+      },
+      {
+        "key": 41100033,
+        "value": 5
+      },
+      {
+        "key": 2,
+        "value": 48000
+      }
+    ],
+    "4": [
+      {
+        "key": 43020034,
+        "value": 7
+      },
+      {
+        "key": 41100034,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 64000
+      }
+    ],
+    "5": [
+      {
+        "key": 43020034,
+        "value": 10
+      },
+      {
+        "key": 41100034,
+        "value": 7
+      },
+      {
+        "key": 2,
+        "value": 96000
+      }
+    ],
+    "6": [
+      {
+        "key": 2,
+        "value": 0
+      }
+    ]
+  }
+}

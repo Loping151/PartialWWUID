@@ -1,0 +1,1030 @@
+{
+    "sonataLib": [
+        {
+            "libId": 1,
+            "fetterList": [
+                {
+                    "fetterDetailName": "此间永驻之光",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000092,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000078,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000074,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000071,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000093,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 2,
+            "fetterList": [
+                {
+                    "fetterDetailName": "熔山裂谷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000091,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077004,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077033,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000050,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000054,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 3,
+            "fetterList": [
+                {
+                    "fetterDetailName": "沉日劫明",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000090,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077029,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077023,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390070079,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070077,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 4,
+            "fetterList": [
+                {
+                    "fetterDetailName": "无惧浪涛之勇",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000084,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000097,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000074,
+                            "mainPropName": "共鸣效率",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000071,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000064,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 5,
+            "fetterList": [
+                {
+                    "fetterDetailName": "浮星祛暗",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000059,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000045,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000051,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070074,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070076,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 6,
+            "fetterList": [
+                {
+                    "fetterDetailName": "沉日劫明",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000090,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077029,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077023,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390070079,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070077,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 7,
+            "fetterList": [
+                {
+                    "fetterDetailName": "凌冽决断之心",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000083,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000076,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000078,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000065,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000066,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 8,
+            "fetterList": [
+                {
+                    "fetterDetailName": "啸谷长风",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000086,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077005,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000040,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000038,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000055,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 9,
+            "fetterList": [
+                {
+                    "fetterDetailName": "熔山裂谷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390080007,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077004,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077033,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000050,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000054,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 10,
+            "fetterList": [
+                {
+                    "fetterDetailName": "凝夜白霜",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000044,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000056,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000049,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077012,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390077013,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 11,
+            "fetterList": [
+                {
+                    "fetterDetailName": "流云逝尽之空",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000106,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000096,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000097,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000098,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000101,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 12,
+            "fetterList": [
+                {
+                    "fetterDetailName": "幽夜隐匿之帷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000082,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000073,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000075,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000062,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000063,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 13,
+            "fetterList": [
+                {
+                    "fetterDetailName": "彻空冥雷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000088,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077022,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077004,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000050,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390077017,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 14,
+            "fetterList": [
+                {
+                    "fetterDetailName": "此间永驻之光",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000104,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000092,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000074,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000071,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000093,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 15,
+            "fetterList": [
+                {
+                    "fetterDetailName": "高天共奏之曲",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000085,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000075,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000080,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000062,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000094,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 16,
+            "fetterList": [
+                {
+                    "fetterDetailName": "浮星祛暗",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000045,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000070,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070070,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390077017,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070076,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 17,
+            "fetterList": [
+                {
+                    "fetterDetailName": "隐世回光",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000060,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 390077025,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390077021,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 390070052,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070068,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 18,
+            "fetterList": [
+                {
+                    "fetterDetailName": "愿戴荣光之旅",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000106,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000113,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000100,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000109,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000110,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 19,
+            "fetterList": [
+                {
+                    "fetterDetailName": "奔狼燎原之焰",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000114,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000112,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000111,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000109,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000110,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 20,
+            "fetterList": [
+                {
+                    "fetterDetailName": "失序彼岸之梦",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000115,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000118,
+                            "mainPropName": "攻击%",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000117,
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "幽夜隐匿之帷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000067,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 6000062,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 21,
+            "fetterList": [
+                {
+                    "fetterDetailName": "荣斗铸锋之冠",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000121,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000097,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000161,
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "彻空冥雷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390070071,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390077017,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 22,
+            "fetterList": [
+                {
+                    "fetterDetailName": "荣斗铸锋之冠",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000160,
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000097,
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000161,
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "啸谷长风",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390070071,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070075,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 23,
+            "fetterList": [
+                {
+                    "fetterDetailName": "焚羽猎魔之影",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000120,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000167,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000112,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "熔山裂谷",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390077012,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070078,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 24,
+            "fetterList": [
+                {
+                    "fetterDetailName": "息界同调之律",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000116,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000162,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000096,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "啸谷长风",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390070064,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070079,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libId": 25,
+            "fetterList": [
+                {
+                    "fetterDetailName": "命理崩毁之弦",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 6000167,
+                            "mainPropName": "暴击伤害",
+                            "cost": 4
+                        },
+                        {
+                            "phantomId": 6000077,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        },
+                        {
+                            "phantomId": 6000173,
+                            "mainPropName": "属性伤害加成",
+                            "cost": 3
+                        }
+                    ]
+                },
+                {
+                    "fetterDetailName": "沉日劫明",
+                    "equipPhantomList": [
+                        {
+                            "phantomId": 390070079,
+                            "cost": 1
+                        },
+                        {
+                            "phantomId": 390070077,
+                            "cost": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "charList": [
+        {
+            "calcFile": "calc-新光套.json",
+            "charId": 1506,
+            "name": "菲比",
+            "weaponId": 21050046,
+            "sonataLibId": 1
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1205,
+            "name": "长离",
+            "weaponId": 21020016,
+            "sonataLibId": 2
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1602,
+            "name": "丹瑾",
+            "weaponId": 21020016,
+            "sonataLibId": 3
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1206,
+            "name": "布兰特",
+            "weaponId": 21020036,
+            "sonataLibId": 4
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1304,
+            "name": "今汐",
+            "weaponId": 21010026,
+            "sonataLibId": 5
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1604,
+            "name": "漂泊者·湮灭",
+            "weaponId": 21020016,
+            "sonataLibId": 6
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1605,
+            "name": "漂泊者·湮灭",
+            "weaponId": 21020016,
+            "sonataLibId": 6
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1107,
+            "name": "珂莱塔",
+            "weaponId": 21030016,
+            "sonataLibId": 7
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1603,
+            "name": "椿",
+            "weaponId": 21020026,
+            "sonataLibId": 6
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1404,
+            "name": "忌炎",
+            "weaponId": 21010016,
+            "sonataLibId": 8
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1203,
+            "name": "安可",
+            "weaponId": 21050016,
+            "sonataLibId": 9
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1102,
+            "name": "散华",
+            "weaponId": 21020016,
+            "sonataLibId": 10
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1305,
+            "name": "相里要",
+            "weaponId": 21040016,
+            "sonataLibId": 13
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1302,
+            "name": "吟霖",
+            "weaponId": 21050016,
+            "sonataLibId": 15
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1406,
+            "name": "漂泊者·气动",
+            "weaponId": 21020046,
+            "sonataLibId": 11
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1408,
+            "name": "漂泊者·气动",
+            "weaponId": 21020046,
+            "sonataLibId": 11
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1606,
+            "name": "洛可可",
+            "weaponId": 21040026,
+            "sonataLibId": 6
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1607,
+            "name": "坎特蕾拉",
+            "weaponId": 21050056,
+            "sonataLibId": 12
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1507,
+            "name": "赞妮",
+            "weaponId": 21040036,
+            "sonataLibId": 14
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1301,
+            "name": "卡卡罗",
+            "weaponId": 21010015,
+            "sonataLibId": 13
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1407,
+            "name": "夏空",
+            "weaponId": 21030026,
+            "sonataLibId": 11
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1505,
+            "name": "守岸人",
+            "weaponId": 21050036,
+            "sonataLibId": 16
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1503,
+            "name": "维里奈",
+            "weaponId": 21050024,
+            "sonataLibId": 17
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1409,
+            "name": "卡提希娅",
+            "weaponId": 21020056,
+            "sonataLibId": 18
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1207,
+            "name": "露帕",
+            "weaponId": 21010036,
+            "sonataLibId": 19
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1608,
+            "name": "弗洛洛",
+            "weaponId": 21050066,
+            "sonataLibId": 20
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1306,
+            "name": "奥古斯塔",
+            "weaponId": 21010046,
+            "sonataLibId": 21
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1410,
+            "name": "尤诺",
+            "weaponId": 21040046,
+            "sonataLibId": 22
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1208,
+            "name": "嘉贝莉娜",
+            "weaponId": 21030036,
+            "sonataLibId": 23
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1411,
+            "name": "仇远",
+            "weaponId": 21020066,
+            "sonataLibId": 24
+        },
+        {
+            "calcFile": "calc.json",
+            "charId": 1508,
+            "name": "千咲",
+            "weaponId": 21010056,
+            "sonataLibId": 25
+        }
+    ]
+}

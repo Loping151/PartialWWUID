@@ -1,0 +1,156 @@
+{
+  "替换角色信息": {
+    "desc": "替换角色信息；如【xx面板 换角色xx】",
+    "data": [
+      {
+        "name": "换角色共鸣链",
+        "desc": "换角色共鸣链",
+        "eg": "长离面板换角色2链",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "换角色等级",
+        "desc": "换角色等级",
+        "eg": "长离面板换角色90级",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "换角色技能",
+        "desc": "换角色技能",
+        "eg": "长离面板换角色技能10 10 10 10 10",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "替换武器信息": {
+    "desc": "替换武器信息；如【xx面板 换武器xx】",
+    "data": [
+      {
+        "name": "换武器谐振",
+        "desc": "换武器谐振",
+        "eg": "长离面板换武器谐振2",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "换武器等级",
+        "desc": "换武器等级",
+        "eg": "长离面板换武器90级",
+        "need_ck": true,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "换武器",
+        "desc": "换武器",
+        "eg": "长离面板换武器长离专武",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "替换合鸣效果": {
+    "desc": "替换合鸣效果；如【xx面板 换合鸣xx】【xx面板换合鸣失序3 换合鸣暗套2】",
+    "data": [
+      {
+        "name": "换合鸣套装",
+        "desc": "换合鸣套装",
+        "eg": "散华面板换合鸣冰套",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "替换主词条": {
+    "desc": "替换主词条；如【xx面板 换声骸主词条 c4 爆伤 c3 1攻1属】",
+    "data": [
+      {
+        "name": "替换声骸主词条",
+        "desc": "换合鸣套装",
+        "eg": "长离面板换声骸主词条c4爆伤",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "替换声骸": {
+    "desc": "替换声骸；如【xx面板 换声骸长离】or【xx面板 换声骸uid长离2到2】",
+    "data": [
+      {
+        "name": "替换全部声骸",
+        "desc": "替换全部声骸",
+        "eg": "炽霞面板 换声骸长离",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "替换全部声骸2",
+        "desc": "替换全部声骸2",
+        "eg": "炽霞面板换声骸uid长离",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "替换声骸",
+        "desc": "替换声骸",
+        "eg": "炽霞面板换声骸长离2到2",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "替换敌人信息(环境)": {
+    "desc": "替换敌人信息(环境)；如【xx面板 换敌人 100级 20抗性】；",
+    "data": [
+      {
+        "name": "替换敌人等级",
+        "desc": "替换敌人等级",
+        "eg": "炽霞伤害 换敌人 100级",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      },
+      {
+        "name": "替换敌人抗性",
+        "desc": "替换敌人抗性",
+        "eg": "炽霞面板 换环境 20抗性",
+        "need_ck": false,
+        "need_sk": false,
+        "need_admin": false
+      }
+    ]
+  },
+  "进阶1": {
+    "desc": "ww长离面板 换角色 90级 满链 技能 10 10 10 10 10",
+    "data": []
+  },
+  "进阶2": {
+    "desc": "ww长离面板 换武器 90级 满精 长离专武",
+    "data": []
+  },
+  "进阶3": {
+    "desc": "ww长离面板 换角色 90级 满链 技能 10 10 10 10 10 换武器 90级 满精 长离专武",
+    "data": []
+  },
+  "进阶4": {
+    "desc": "ww长离面板对比 换武器 90级 满精 长离专武 @某人",
+    "data": []
+  },
+  "进阶5": {
+    "desc": "wwuid长离面板对比 换武器 90级 满精 长离专武",
+    "data": []
+  }
+}
