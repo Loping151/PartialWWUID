@@ -86,6 +86,7 @@ async def send_waves_challenge_info(bot: Bot, ev: Event):
     (
         "冥海",
         "mh",
+        "hx",
         "海墟",
         "冥歌海墟",
         "查询冥海",
